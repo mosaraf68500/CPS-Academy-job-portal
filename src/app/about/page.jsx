@@ -10,7 +10,7 @@ const About = () => {
     <div>
       {/* Hero Section */}
       <section
-        className="relative h-64 bg-cover bg-center mb-20"
+        className="relative h-64 bg-cover bg-center mb-4"
         style={{
           backgroundImage:
             "url('https://i.ibb.co/qHN4RwJ/depositphotos-232776356-stock-video-paper-texture-animation-white-page.jpg')",
